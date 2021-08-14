@@ -1,0 +1,5 @@
+Button	KEYWORD1
+setOnDown	KEYWORD2
+setOnUp	KEYWORD2
+setOnPress	KEYWORD2
+loop	KEYWORd2
